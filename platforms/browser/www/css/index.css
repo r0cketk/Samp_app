@@ -1,0 +1,55 @@
+h1 {
+	background: url(../img/titulo.png) no-repeat;
+	width: 324px;
+	height: 80px;
+	font-size: 12px;
+	margin: 5px auto !important;
+}
+.ui-header, .ui-footer {
+	text-align: center
+}
+.ui-header img {
+	margin: 0;
+}
+.ui-btn-icon-left .ui-btn-inner {
+	text-align: left !important;
+}
+#notification {
+	color: #900;
+	text-align: center;
+}
+.ui-header .ui-title, .ui-footer .ui-title {
+	white-space: normal;
+}
+.ui-li-heading {
+	white-space: normal;
+}
+.ui-listview-filter .ui-input-search {
+	margin: 10px 15px;
+}
+.phone_icon {
+	background: url(../img/phone_icon.png) no-repeat !important;
+	width: 50px !important;
+	height: 50px !important;
+	display: block !important;
+	right: 0 !important;
+	z-index: 99999;
+	padding: 0 !important;
+	position: absolute !important;
+	margin: 10px !important;
+}
+.ui-corner-all {
+	white-space: normal;
+}
+.ui-btn-inner {
+	margin: 4px 10px !important;
+	padding-bottom: 4px !important;
+}
+.ui-btn-icon-right .ui-icon {
+	display: none;
+}
+p.ui-li-desc {
+	white-space: normal !important;
+	padding-right: 50px !important;
+}
+	
