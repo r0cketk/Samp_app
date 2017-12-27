@@ -113,7 +113,6 @@
 		</platform>
 	</plugin>
 	
-	<gap:plugin name="com.teamnemitoff.phonedialer" version="0.3.0" />
 	
 
     <!--
