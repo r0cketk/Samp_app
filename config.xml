@@ -114,8 +114,6 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    
-	<gap:plugin name="com.teamnemitoff.phonedialer" version="0.3.0" />
 	
 
     
