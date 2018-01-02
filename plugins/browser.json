@@ -8,66 +8,66 @@
     },
     "installed_plugins": {
         "cordova-plugin-battery-status": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-camera": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-media-capture": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-console": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-contacts": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-device-motion": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-device-orientation": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-file-transfer": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-geolocation": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-globalization": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-media": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-splashscreen": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-vibration": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         }
     },
     "dependent_plugins": {
         "cordova-plugin-file": {
-            "PACKAGE_NAME": "com.phonegap.samp"
+            "PACKAGE_NAME": "com.agmp.samp"
         }
     }
 }
