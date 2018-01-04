@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.agmp.samp"
-        version   = "1.0.8">
+        version   = "1.0.9">
 
     <name>SAMP / AGMP</name>
 
@@ -91,11 +91,9 @@
     <gap:splash src="res/screen/ios/screen-ipad-landscape-2x.png" gap:platform="ios" width="2048" height="1496" /> 
     <gap:splash src="res/screen/ios/screen-iphone-portrait-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 	
-	
-    <plugin name="cordova-plugin-media-capture" source="npm" spec="*">
-	  <variable name="CAMERA_USAGE_DESCRIPTION" value="App would like to access the camera." />
-	  <variable name="MICROPHONE_USAGE_DESCRIPTION" value="App would like to access the microphone." />
-	  <variable name="PHOTOLIBRARY_USAGE_DESCRIPTION" value="App would like to access the library." />
+	<plugin name="cordova-plugin-camera"  source="npm" spec="~1.1.1" >
+	   <param name="CAMERA_USAGE_DESCRIPTION" value="We are using the Camera for something..." />
+	   <param name="PHOTOLIBRARY_USAGE_DESCRIPTION" value="We are using the Photo Library for something..." />
 	</plugin>
 	
 	<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="com.phonegap.core.phonedialer" version="0.2.0">
